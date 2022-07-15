@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Headings SubTitle matches snapshot 1`] = `
+<p
+  className="MuiTypography-root MuiTypography-body1 css-1vpzi8a-MuiTypography-root"
+  data-testid="subtitle"
+  style={
+    Object {
+      "color": "rgba(0, 0, 0, 0.6)",
+    }
+  }
+>
+  This is a subtitle
+</p>
+`;
+
+exports[`Headings Title matches snapshot 1`] = `
+<p
+  className="MuiTypography-root MuiTypography-body1 css-1vpzi8a-MuiTypography-root"
+  data-testid="title"
+>
+  This is a title
+</p>
+`;

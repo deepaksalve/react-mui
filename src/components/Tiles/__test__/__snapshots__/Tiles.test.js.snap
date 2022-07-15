@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Headings Title matches snapshot - 4 items 1`] = `
+<div
+  className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-3988i3-MuiGrid-root"
+  data-testid="tiles"
+>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-md-3 MuiGrid-grid-lg-3 MuiGrid-grid-xl-2 css-1cxeybu-MuiGrid-root"
+    data-testid="tile"
+  />
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-md-3 MuiGrid-grid-lg-3 MuiGrid-grid-xl-2 css-1cxeybu-MuiGrid-root"
+    data-testid="tile"
+  />
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-md-3 MuiGrid-grid-lg-3 MuiGrid-grid-xl-2 css-1cxeybu-MuiGrid-root"
+    data-testid="tile"
+  />
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-md-3 MuiGrid-grid-lg-3 MuiGrid-grid-xl-2 css-1cxeybu-MuiGrid-root"
+    data-testid="tile"
+  />
+</div>
+`;
+
+exports[`Headings Title matches snapshot - empty 1`] = `
+<div
+  className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-3988i3-MuiGrid-root"
+  data-testid="tiles"
+/>
+`;
